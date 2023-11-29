@@ -11,6 +11,8 @@
 - "dist_center_segment": 0.03,(Растояние между центром диска и центром отверстия)
 - "material_density": 250     (Плотность)
 
+*В папке Data, после работы программы формируется файл данных формата CSV.
+
 ![Figure_3](https://github.com/Royal00Blood/disc-exp/assets/40455010/d3034b20-c476-4dcd-8e67-a73c66b7da8b)
 
 
